@@ -42,8 +42,8 @@ Some projects are deployed using GitHub Pages.
 
 > Add links here:
 
-* Project 1: (link)
-* Project 2: (link)
+* Project 1: https://iaminsaf.github.io/portfolio-prototypes/video-editors/landingpage_1
+
 
 ---
 
